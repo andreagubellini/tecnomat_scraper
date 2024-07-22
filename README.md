@@ -1,4 +1,3 @@
-```markdown
 # Web Scraper for Tecnoma Help Center
 
 This Python script is designed to scrape FAQs from the Tecnoma Help Center website and save the extracted questions and answers to a CSV file. The script utilizes the `requests` library for HTTP requests and `BeautifulSoup` from `bs4` for HTML parsing.
