@@ -1,5 +1,3 @@
-Sure! Here's the README formatted in Markdown:
-
 ```markdown
 # Web Scraper for Tecnoma Help Center
 
